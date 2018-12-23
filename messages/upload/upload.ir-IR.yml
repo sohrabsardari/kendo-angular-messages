@@ -1,0 +1,41 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: لغو
+
+    # The text for the Clear button
+    clearSelectedFiles: پاک کردن
+
+    # The drop zone hint
+    dropFilesHere: فایل ها را اینجا بکشید
+
+    # The header status message after file upload completion
+    headerStatusUploaded: با موفقیت انجام شد
+
+    # The header status message during file upload
+    headerStatusUploading: در حال انجام...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: فرمت فایل اشتباه است
+
+    # The text for the invalid files message
+    invalidFiles: فایل(فایل ها) نا معتبر میباشد. لطفا فایل ها را بررسی کنید
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: حجم فایل زیاد است
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: حجم فایل کم است
+
+    # The text for the Remove button
+    remove: برداشتن
+
+    # The text for the Retry button
+    retry: تلاش دوباره
+
+    # The text for the Select button
+    select: انتخاب فایل...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: آپلود فایل
+

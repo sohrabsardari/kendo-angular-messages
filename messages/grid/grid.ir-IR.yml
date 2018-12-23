@@ -67,13 +67,13 @@ kendo:
     filterGteOperator: بزرگتر یا مساوی با
 
     # The text of the "greater than" filter operator
-    filterGtOperator: أكبر من
+    filterGtOperator: بزرگتر از
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: أقل من أو يساوي
+    filterLteOperator: کوچکتر یا مساوی
 
     # The text of the "less than" filter operator
-    filterLtOperator: أقل من أو يساوي
+    filterLtOperator: کوچکتر از
 
     # The text of the "Is true" filter option
     filterIsTrue: صحيح
@@ -82,43 +82,43 @@ kendo:
     filterIsFalse: غير صحيح
 
     # The text of the (All) boolean filter option
-    filterBooleanAll: (الكل)
+    filterBooleanAll: کل
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: هو بعد أو يساوي
+    filterAfterOrEqualOperator: مساوی یا بعد تاریخ
 
     # The text of the after date filter operator
-    filterAfterOperator: هو بعد
+    filterAfterOperator: بعد از
 
     # The text of the before date filter operator
-    filterBeforeOperator: قبل ذلك
+    filterBeforeOperator: قبل از
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: هو قبل أو يساوي
+    filterBeforeOrEqualOperator: مساوی یا قبل تاریخ
 
     # The text of the "filter button"
-    filterFilterButton: Filter
+    filterFilterButton: فیلتر
 
     # The text of the "clear filter button"
-    filterClearButton: Clear
+    filterClearButton: پاک کردن فیلترها
 
     # The text of the "And" filter logic
-    filterAndLogic: And
+    filterAndLogic: و
 
     # The text of the "Or" filter logic
-    filterOrLogic: Or
+    filterOrLogic: یا
 
     # The loading text
-    loading: Loading
+    loading: در حال لود
 
     # The label of the sort icon
-    sort: Sort
+    sort: مرتب کردن
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: منوی ستون
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: ستون ها
 
     # The text shown in the column menu for the lock item
     lock: Lock
@@ -127,10 +127,10 @@ kendo:
     unlock: Unlock
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: ترتیب صعودی
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: ترتیب نزولی
 
     # The text shown in the column menu or column chooser for the columns apply button
     columnsApply: Apply
